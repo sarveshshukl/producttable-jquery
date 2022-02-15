@@ -1,0 +1,81 @@
+*{
+    margin-top: 10px;
+    font-size: 20px;
+    /* margin: 0 auto;
+    width: 40%; */
+}
+
+
+.in{
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px ;
+
+}
+
+input[type="text" i] {
+    padding: 5px 20px;
+    margin-left: 20px;
+}
+input[type="number" i] {
+    padding: 5px 20px;
+    margin-left: 20px;
+}
+#age{
+    margin-left: 30px;
+}
+
+button{
+    border: 2px solid black;
+    border-radius: 3px;
+    display: block;
+    margin: 10px 60% 0px 30%;
+    padding: 10px 70px;
+
+}
+table{
+    width: 80%;
+    margin: 3% auto;
+    border: 1px solid black;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+#para{
+      width: 60%;
+      margin: 3% auto;
+      font-size: large;
+    
+      /* padding: 20px 50px 20px 50px; */
+      background-color: red;
+}
+
+a{
+      margin-left: 3px;
+}
+
+#para{
+    /* padding-top: 1%;
+    padding-bottom: 2%; */
+    text-align: center;
+}
+#para2{
+    /* padding-top: 1%;
+    padding-bottom: 2%; */
+    width: 60%;
+    text-align: center;
+}
+#one{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(142, 221, 142);
+}
+#two{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(230, 84, 84);
+}
